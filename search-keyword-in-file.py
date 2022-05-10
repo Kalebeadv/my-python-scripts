@@ -29,7 +29,7 @@ def remove_list_keyword(result, keyreplace):
   return formattedlist
 
 
-file = "test.html"
+file = "test.html" 
 readtype = "r"
 charset = "utf-8"
 
