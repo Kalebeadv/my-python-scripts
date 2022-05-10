@@ -1,4 +1,3 @@
-# Importing BeautifulSoup class from the bs4 module
 from email import charset
 import re
 import codecs
